@@ -247,4 +247,5 @@ theo cột đổi sau mỗi 2 ô; theo cả hai đường chéo, độ dài dãy
 ## 10. Phân công và đóng góp 
 
 | Thành viên | Phần phụ trách (module / chức năng) | Tự đánh giá |
+
 |Nguyễn Hữu lộc|Module-chức năng -luật-giao diện|100%|
