@@ -244,9 +244,7 @@ theo cột đổi sau mỗi 2 ô; theo cả hai đường chéo, độ dài dãy
 * Máy dùng heuristic + nhìn trước vài nước, mạnh vừa phải (không có tìm kiếm đe dọa chuyên sâu). Máy luôn cho cùng một nước với cùng một thế cờ.
 * Cỡ bàn 9..26 (tên cột là chữ cái a..z).
 
-## 10. Phân công và đóng góp (điền vào trước khi nộp)
+## 10. Phân công và đóng góp 
 
-| Thành viên | Phần phụ trách (module / chức năng) | Quyết định thiết kế chính | Tự đánh giá |
-|---|---|---|---|
-| | | | |
-| | | | |
+| Thành viên | Phần phụ trách (module / chức năng) | Tự đánh giá |
+|Nguyễn Hữu lộc|Module-chức năng -luật-giao diện|100%|
